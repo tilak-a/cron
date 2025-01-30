@@ -2,7 +2,7 @@ const http = require("http");
 const https = require("https");
 
 const PORT = process.env.PORT || 3000;
-const SELF_URL = "https://your-app-name.onrender.com"; // Replace with your Render URL
+const SELF_URL = "https://your-app-name.onrender.com"; // https://cron-566y.onrender.com
 const PING_URL =
   "https://corr.onrender.com/http://3.109.226.210:1111/opsservice/master/getallfinancialyears";
 
